@@ -1,0 +1,5 @@
+<Plugin>
+	<Name>Feedback</Name>
+	<Description>Send email to support</Description>
+	<Category>advanced</Category>
+</Plugin>
