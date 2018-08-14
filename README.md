@@ -9,4 +9,5 @@ An iShare GIS plugin which provides mailto links for sending emails.
 * iShare GIS (tested with v5.6 and later)
 
 ## Instructions ##
-Similar installation to [iShare help site](https://astuntech.atlassian.net/wiki/spaces/ISHAREHELP/pages/160694547/Enable+iShare+GIS+Predefined+Site+Report+Plugin)
+Follow Steps 1-3 here: [iShare help site](https://astuntech.atlassian.net/wiki/spaces/ISHAREHELP/pages/160694547/Enable+iShare+GIS+Predefined+Site+Report+Plugin)
+Edit Feedback.js for email addresses and display text.
