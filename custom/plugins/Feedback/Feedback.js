@@ -9,7 +9,7 @@ Astun.JS.Plugins.installDialog("feedbackDialog", function() {
 					var emailCC = ' ';
 					var emailSub = 'iShareGIS';
 					var emailBody = 'Dear Sir/Madam';
-					window.open("mailto:"+emailTo+'?cc='+emailCC+'&subject='+emailSub+'&body='+emailBody);
+					location.href = "mailto:"+emailTo+'?cc='+emailCC+'&subject='+emailSub+'&body='+emailBody;
 				}
 			},{
 				name: "",
