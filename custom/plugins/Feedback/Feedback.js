@@ -6,7 +6,7 @@ Astun.JS.Plugins.installDialog("feedbackDialog", function() {
 				text: 'GIS Team',
 				click: function() {
 					var emailTo = 'gis@somecouncil.gov.uk';
-					var emailCC = '';
+					var emailCC = ' ';
 					var emailSub = 'iShareGIS';
 					var emailBody = 'Dear Sir/Madam';
 					window.open("mailto:"+emailTo+'?cc='+emailCC+'&subject='+emailSub+'&body='+emailBody);
@@ -16,7 +16,7 @@ Astun.JS.Plugins.installDialog("feedbackDialog", function() {
 				text: 'Dave',
 				click: function() {
 					var emailTo = 'trigger@somecouncil.gov.uk';
-					var emailCC = '';
+					var emailCC = ' ';
 					var emailSub = 'iShareGIS';
 					var emailBody = 'Dear Sir';
 					location.href = "mailto:"+emailTo+'?cc='+emailCC+'&subject='+emailSub+'&body='+emailBody;
