@@ -6,7 +6,7 @@ Author: Astun Technology Ltd.
 An iShare GIS plugin which provides mailto links for sending emails.
 
 ## Dependencies ##
-* iShare GIS (tested with v5.6 and later)
+* iShare GIS (tested with v5.2 and later)
 
 ## Instructions ##
 Go here: [iShare help site](https://astuntech.atlassian.net/wiki/spaces/ISHAREHELP/pages/369688794/Enable+iShare+GIS+Feedback+Plugin)
